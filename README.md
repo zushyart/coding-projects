@@ -14,12 +14,22 @@ EWOW SIMULATION - A simulation about the life counts of contestants in Eleven Wo
 
 FEELINGZ SOLVER - A tool for solving levels for the game on Coolmath Games called Feelingz, which is about fitting people into a grid. They have different feelings depending on the people around them.
 
-LOOK AND SAY SEQUENCE
+LOOK AND SAY SEQUENCE - A project that finds sequences of numbers in the look and say sequences.
 
-MESSING WITH EXTENSIONS
+MESSING WITH EXTENSIONS - I tried a few Turbowarp extentions for the first time.
 
-NUMBER FINDER
+NUMBER FINDER - A tool for finding many types of numbers (prime, perfect, abundant etc).
 
-PENTOPUZZLE - 
+PENTOPUZZLE - A game about fitting pentominoes into grids. I have lots of plans for this one.
 
-PERFECT NUMBER FINDER
+PERFECT NUMBER FINDER - A project that finds even perfect numbers really fast.
+
+PERIODIC TABLE - This has a sprite with costumes for all 118 elements.
+
+PHYSICS TEST - 
+
+PLATFORMER - 
+
+POLYOMINO FINDER - A Turbowarp version of my Polyomino Finder file.
+
+SPELLEMENTS - A tool for spelling text using periodic table elements.
