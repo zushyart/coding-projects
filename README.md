@@ -2,7 +2,7 @@
 These are my Turbowarp projects. Turbowarp is a mod of Scratch with many new and useful features. I use Turbowarp 1.10.1, which is the latest version at the time of writing this. Most of these projects will break if you use the Scratch offline editor. A lot of them are buggy/unfinished anyway, sorry about that.
 
 ## Project descriptions
-BPM CONVERTER - A tool for converting between BOM and seconds between beats.
+BPM CONVERTER - A tool for converting between BPM and seconds between beats.
 
 BATTERY - A circle that tells you your computer's battery level.
 
@@ -26,10 +26,32 @@ PERFECT NUMBER FINDER - A project that finds even perfect numbers really fast.
 
 PERIODIC TABLE - This has a sprite with costumes for all 118 elements.
 
-PHYSICS TEST - 
+PHYSICS TEST - I tried using Turbowarp's 2D physics extension.
 
-PLATFORMER - 
+PLATFORMER - I followed Griffpatch's platformer tutorial.
 
 POLYOMINO FINDER - A Turbowarp version of my Polyomino Finder file.
 
 SPELLEMENTS - A tool for spelling text using periodic table elements.
+
+SQUAREVIVAL - The new version of Squarevival, a game inspired by Minecraft and Terraria. The Python one is discontinued. 
+
+SQUARUN - A game inspired by the Google dinosaur game that I made for school.
+
+SQUISHY CAT - I followed Griffpatch's stretchy sprites tutorial. The project is useless because of Turbowarp's stretch blocks extension.
+
+STRETCHY CAT - I was messing with Turbowarp extensions and made a stretching cat.
+
+TEXT SAVING - I followed Griffpatch's tutorial about saving and loading text.
+
+TILING MAKER (SPECTRE) - Tiling Maker with spectre tiles.
+
+TILING MAKER (SQUARES) - Tiling Maker with squares.
+
+TILING MAKER (TEMPLATE) - Something for making things like Tiling Maker.
+
+TILING MAKER - A project for placing tiles to making tilings.
+
+TILING SUBSTITUTION - A project that creates aperiodic tilings using substitution rules.
+
+VECTORS DRAWING - Arrows spin and the end point's path is drawn. This is inspired by a 3blue1brown video.
