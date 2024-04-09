@@ -14,6 +14,8 @@ EWOW SIMULATION - A simulation about the life counts of contestants in Eleven Wo
 
 FEELINGZ SOLVER - A tool for solving levels for the game on Coolmath Games called Feelingz, which is about fitting people into a grid. They have different feelings depending on the people around them.
 
+MESSING WITH THE - I was doing stuff with sprites and costumes I made for my object show.
+
 NUMBER FINDER - A tool for finding many types of numbers (prime, perfect, abundant etc).
 
 PENTOPUZZLE - A game about fitting pentominoes into grids. I have lots of plans for this one.
