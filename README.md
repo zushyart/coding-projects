@@ -1,5 +1,5 @@
 # Turbowarp-projects
-These are my Turbowarp projects. Turbowarp is a mod of Scratch with many new and useful features. I use Turbowarp 1.10.1, which is the latest version at the time of writing this. Most of these projects will break if you use the Scratch offline editor. A lot of them are buggy/unfinished anyway, sorry about that.
+These are my Turbowarp projects. Turbowarp is a mod of Scratch with many new and useful features. I use Turbowarp 1.10.1, which is the latest version at the time of writing this. Most of these projects will break if you use the Scratch offline editor. Some are buggy/unfinished anyway, sorry about that.
 
 ## Project descriptions
 BPM CONVERTER - A tool for converting between BPM and seconds between beats.
@@ -13,10 +13,6 @@ CONWAY'S GAME OF LIFE - A recreation of Conway's Game of Life.
 EWOW SIMULATION - A simulation about the life counts of contestants in Eleven Words of Wisdom by Carykh.
 
 FEELINGZ SOLVER - A tool for solving levels for the game on Coolmath Games called Feelingz, which is about fitting people into a grid. They have different feelings depending on the people around them.
-
-LOOK AND SAY SEQUENCE - A project that finds sequences of numbers in the look and say sequences.
-
-MESSING WITH EXTENSIONS - I tried a few Turbowarp extentions for the first time.
 
 NUMBER FINDER - A tool for finding many types of numbers (prime, perfect, abundant etc).
 
@@ -38,19 +34,13 @@ SQUAREVIVAL - The new version of Squarevival, a game inspired by Minecraft and T
 
 SQUARUN - A game inspired by the Google dinosaur game that I made for school.
 
-SQUISHY CAT - I followed Griffpatch's stretchy sprites tutorial. The project is useless because of Turbowarp's stretch blocks extension.
-
 STRETCHY CAT - I was messing with Turbowarp extensions and made a stretching cat.
 
 TEXT SAVING - I followed Griffpatch's tutorial about saving and loading text.
 
-TILING MAKER (SPECTRE) - Tiling Maker with spectre tiles.
+TILING MAKER (SPECTRE) - A tool for making tilings with spectre tiles.
 
-TILING MAKER (SQUARES) - Tiling Maker with squares.
-
-TILING MAKER (TEMPLATE) - Something for making things like Tiling Maker.
-
-TILING MAKER - A project for placing tiles to making tilings.
+TILING MAKER (SQUARES) - Make tilings with two different squares.
 
 TILING SUBSTITUTION - A project that creates aperiodic tilings using substitution rules.
 
