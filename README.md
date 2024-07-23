@@ -1,5 +1,5 @@
-# Turbowarp-projects
-These are my Turbowarp projects. Turbowarp is a mod of Scratch with many new and useful features. I use Turbowarp 1.10.1, which is the latest version at the time of writing this. Most of these projects will break if you use the Scratch offline editor. Some are buggy/unfinished anyway, sorry about that.
+# coding-projects
+These are my Turbowarp and PenguinMod projects. They're mods of Scratch with many new and useful features. I mainly use Turbowarp 1.12.3. Most of these projects will break if you use the Scratch offline editor. Some are buggy/unfinished anyway, sorry about that.
 
 ## Project descriptions
 BPM CONVERTER - A tool for converting between BPM and seconds between beats.
